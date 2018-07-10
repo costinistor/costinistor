@@ -13,7 +13,7 @@
 		</div>
 	</div>
 </header>
-<!-- ///////-------End Header -------////////-->
+<!-- ///////======== End Header =========////////-->
 <section>
 	<div class="container main-wrapper about-wrapper">
 			<div class="main-intro">
